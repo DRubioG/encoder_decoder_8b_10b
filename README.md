@@ -1,5 +1,5 @@
-# encoder_decoder_8b_10b
- This is an encoder/decoder for 8b/10b
+# encoder_decoder_8B_10B
+ This is an encoder/decoder for 8B/10B
 
 This project has at least two files, one for the encoder and other for the decoder
 
